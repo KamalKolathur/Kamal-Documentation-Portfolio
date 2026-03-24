@@ -1,4 +1,6 @@
-# You can use the WhatFont extension provided by Google Chrome to inspect the fonts used in a web page.
+# Using WhatFont Extension
+
+You can use the WhatFont extension provided by Google Chrome to inspect the fonts used in a web page.
 
 ## Step 1: Get WhatFont extension
 1.	Go to the Chrome Web Store (https://chromewebstore.google.com).
